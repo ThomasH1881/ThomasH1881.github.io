@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+https://Thoment.github.io/files/Wentao_Hou_CV.pdf
+
 Education
 ======
 * B.E. in Electronic Engineering, Tsinghua University, 2022
