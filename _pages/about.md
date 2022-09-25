@@ -10,5 +10,4 @@ redirect_from:
 
 I am a first-year PhD student at UW-Madison. I work in Wisconsin NetLab and my advisor is Prof. Ming Liu. My research interests focus on exploring distributed underlying computer systems with emerging network devices.
 
-This personal website is under construction.
 ======
