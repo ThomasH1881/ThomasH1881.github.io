@@ -17,4 +17,4 @@ Education
 Skills
 ======
 * Programming Languages: C/C++, Python, Matlab, Verilog
-* Tools: Xilinx SDx, Xilinx Vivado, Multisim, Cadence, Gem5
+* Tools: Xilinx SDx, Xilinx Vivado, Multisim, Cadence, gem5
