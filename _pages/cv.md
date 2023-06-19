@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf](https://Thoment.github.io/files/Wentao_Hou_CV.pdf)
+[pdf](https://thomash1881.github.io/files/Wentao_Hou_CV.pdf)
 
 Education
 ======
