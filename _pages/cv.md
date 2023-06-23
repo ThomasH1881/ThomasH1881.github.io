@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.E. in Electronic Engineering, Tsinghua University, 2022
-* Ph.D in Computer Sciences, University of Wisconsin-Madison, 2028 (expected)
+* B.E. in Electronic Engineering, Tsinghua University, Sep 2018 - Jun 2022
+* Ph.D in Computer Sciences, University of Wisconsin-Madison, Sep 2022 - present
   
 Skills
 ======
